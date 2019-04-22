@@ -3,8 +3,8 @@
 ## Deploy:
 
 * Clone or download
-* Install [serve](https://www.npmjs.com/package/serve) in directory:
+* Install [serve](https://www.npmjs.com/package/serve) in root directory:
   ```npm install serve```
 
-* run serve in directory:
+* run serve in root directory:
   ```serve```
